@@ -4,8 +4,6 @@ Producer Python untuk mengirimkan data harga Bitcoin ke Apache Kafka.
 ## Deskripsi
 Projek ini bertujuan untuk membaca data harga Bitcoin dari file CSV dan mengirimkannya ke topik Kafka menggunakan Avro.
 
-## Setup
-
 ### Persyaratan
 
 - Python 3.5
